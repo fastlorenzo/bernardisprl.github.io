@@ -8,13 +8,16 @@ Les entreprises recherchent une valeur ajoutée toujours plus grande. A juste ti
 La législation devient sans cesse plus complexe et pour continuer à croître dans un contexte de globalisation économique, les entreprises ont besoin d'un guide qui les conduise d'une main assurée.
 Votre entreprise mérite un appui financier et fiscal solide par :
 
-- un coach
+- un coach:
+
   Votre expert-comptable/conseil fiscal contribue à la réussite de votre entreprise, et ce, à tous les stades, de la création au développement en passant par l'élaboration de stratégies d'avenir...
 
-- un conseiller
+- un conseiller:
+
   Votre expert-comptable/conseil fiscal accomplit sa mission en toute indépendance et est tenu à un secret professionnel des plus stricts. Vous pouvez donc compter sur l'avis objectif d'une personne de confiance.
 
-- un auditeur fiscal
+- un auditeur fiscal:
+
   Votre expert-comptable/conseil fiscal est le garant de la qualité de votre information comptable et financière au travers d'un diagnostic structuré et assure le suivi rigoureux de vos obligations fiscales.
 
 
