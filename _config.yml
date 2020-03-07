@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+name: Bernardi SPRL
+author:
+  name: Raffaele Bernardi
+timezone: "Europe/Brussels"
+highlighter: rouge
