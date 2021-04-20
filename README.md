@@ -1,8 +1,6 @@
-# Bernardi SPRL
+# Introduction
 
-## Introduction
-
-### Votre entreprise mérite un appui financier et fiscal solide.
+## Votre entreprise mérite un appui financier et fiscal solide.
 
 Les entreprises recherchent une valeur ajoutée toujours plus grande. A juste titre.
 La législation devient sans cesse plus complexe et pour continuer à croître dans un contexte de globalisation économique, les entreprises ont besoin d'un guide qui les conduise d'une main assurée.
@@ -21,7 +19,7 @@ Votre entreprise mérite un appui financier et fiscal solide par :
   Votre expert-comptable/conseil fiscal est le garant de la qualité de votre information comptable et financière au travers d'un diagnostic structuré et assure le suivi rigoureux de vos obligations fiscales.
 
 
-### Votre expert-comptable externe.<br/>Un partenaire polyvalent et digne de confiance.
+## Votre expert-comptable externe.<br/>Un partenaire polyvalent et digne de confiance.
 
 Votre expert-comptable externe vous assiste pour assurer la bonne tenue de la comptabilité de votre entreprise.
 Mais il ne fait pas que cela. Il est aussi un conseil externe qui vous accompagne avec toute son expertise et en toute indépendance à tous les moments importants de la vie de votre entreprise.
@@ -35,6 +33,6 @@ Voici quelques exemples de l'expertise pour votre entreprise :
 - évaluation de votre entreprise
 - organisation et suivi de vos services administratifs et comptables
 
-#### Conclusion :
+### Conclusion :
 
 Votre expert-comptable est à la fois un coach fiable et un conseil expérimenté.<br/>Donc pourquoi ne pas unir nos forces ?
